@@ -1,7 +1,6 @@
 ### About me
 Computer science student - UESPI (2018-2022).
 
-Back-end web developer in training. 
 
 <h3 align="left">I have worked with:</h3>
 
