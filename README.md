@@ -1,5 +1,4 @@
-### About Me:
-##
+
 ### Sobre mim
 
 🎓 Bacharel em Ciência da Computação  
