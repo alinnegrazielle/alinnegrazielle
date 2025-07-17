@@ -2,7 +2,6 @@
 ### Sobre mim
 
 🎓 Bacharel em Ciência da Computação  
-💡 Em transição de carreira para desenvolvimento front-end  
 🚧 *Perfil em construção. Em breve, mais projetos e atualizações.*
 
 ---
