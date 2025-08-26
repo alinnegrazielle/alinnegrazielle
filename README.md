@@ -9,7 +9,6 @@ Atualmente estou me aprofundando em JavaScript e Node.js, buscando aplicar meus 
 
 ## 🌱 Tecnologias que estou aprendendo:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
