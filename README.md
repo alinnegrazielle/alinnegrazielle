@@ -2,7 +2,7 @@
 <h1 align="center">Olá, 👋 Sou Alinne Grazii!</h1>
 
 
-Desenvolvedora back-end em formação... <br>
+Desenvolvedora back-end em formação. <br>
 Atualmente estou me aprofundando em JavaScript e Node.js, buscando aplicar meus conhecimentos em projetos reais.
 
 ---
