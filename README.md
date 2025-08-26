@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, 👋 Sou Alinne Farias!</h1>
+<h1 align="center">Olá, 👋 Sou Alinne Grazii!</h1>
 
 
 Desenvolvedora back-end em formação... <br>
