@@ -37,8 +37,8 @@
 
 <h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinnegrazielle&show_icons=true&theme=dark" alt="Alinne Farias's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alinnegrazielle&layout=compact&langs_count=8&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alinnefarias&show_icons=true&theme=dark" alt="Alinne Farias's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alinnefarias&layout=compact&langs_count=8&theme=dark" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alinnegrazielle&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=alinnefarias&style=flat" alt="Profile Views">
 </p>  
 
 > 🚧 *Perfil em constante evolução... novos projetos chegando em breve!*
