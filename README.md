@@ -1,7 +1,7 @@
 <h1 align="center">Olá, 👋 Sou Alinne Farias!</h1>
 
 <p align="center">
-  Desenvolvedora Back-end em formação, com experiência prévia na área da saúde e interesse em criar soluções que impactem positivamente a vida das pessoas.
+  Desenvolvedora Front-end em formação, com experiência prévia na área da saúde e interesse em criar soluções que impactem positivamente a vida das pessoas.
 </p>
 
 <p align="center">
@@ -10,14 +10,7 @@
 
 ---
 
-## 🌱 Atualmente estudando
-- Desenvolvimento Back-end com **Node.js** e **Express**
-- **APIs REST**, autenticação de usuários e integração com bancos de dados
-- Deploy de aplicações em ambiente de produção
-
----
-
-## 💻 Tecnologias que conheço
+## 💻 Tecnologias que conheço 🌱
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
